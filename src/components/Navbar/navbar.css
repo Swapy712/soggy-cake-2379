@@ -1,0 +1,21 @@
+.app{
+    width:100%;
+    background-color:tomato;
+    position:fixed;
+}
+.div1{
+    height:35px;
+    background-color:#437111 ;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.div2{
+    height:65px;
+    background-color:white;
+    display:flex;
+    text-align: center;
+    border:1px solid black;
+}
+
+
