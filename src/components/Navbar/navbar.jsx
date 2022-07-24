@@ -9,7 +9,7 @@ function Navbar() {
       display:"flex",
       justifyContent:"center",
       alignItems:"center",
-      
+      cursor:"pointer"
   }
    
  
